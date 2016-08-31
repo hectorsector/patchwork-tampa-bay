@@ -1,0 +1,4 @@
+- [Lightning Talk](lightning-talk.pdf)
+- [Tampa Bay Wave](http://www.tampabaywave.org)
+- [Women in Linux](http://www.womeninlinux.com)
+- [Open Source Video](https://www.youtube.com/watch?v=Tyd0FO0tko8)
